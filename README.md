@@ -11,6 +11,7 @@ The dashboard includes the following features:
 - Purchase trends by customer occupation
 - Purchase trends by customer commute distance
 
+![alt text](https://github.com/skprasad117/Bike-Sales-Excel-Dashboard/blob/main/bike%20puchase%20excel.jpg)
 ## Getting Started
 
 To use this dashboard, you will need to have Microsoft Excel installed on your computer. You can open the Excel file included in this repository to view and interact with the dashboard.
